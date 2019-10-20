@@ -36,7 +36,7 @@
 - [x] 显卡 核显HD4600驱动 QE/CI AGPM
 - [x]  USB 3.0 USB端口定制 
 - [x]  亮度调节 FN+上下箭头调节
-- [x]  声卡 AppleALC驱动，目前i注入layout 3,ALC235这个声卡还有点问题
+- [x]  声卡 AppleALC驱动，目前i注入layout 14,ALC235这个声卡还有点问题
 - [x]  CPU变频  
 - [x]  电源电池睡眠唤醒（电源管理LPC ok，开合盖唤醒/睡眠，关机重启正常断电）目前电池未修正
 - [x]  键盘 附件默认使用ApplePS2SmartTouchPad，兼容Synaptics和Elan。
