@@ -3,7 +3,7 @@
 
 [English](README-EN.md) | [中文](README.md)
 
-* | Computer:Lenovo Rescuer 14-isk / Rescuer 15-isk Laptop
+* | Computer:Lenovo Rescuer 14-ise/ifi Laptop
 * | CPU :Intel Core i5- 4210HQ /Intel Core i7-4720HQ  (Haswell  )
 * | Graphics :HD4600 (using Intel GPU only) +GeForce GTX 960M(独显已屏蔽)
 * | Audio:ACL235 @ Intel Lynx Point High Definition Audio
