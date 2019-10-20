@@ -2,7 +2,7 @@
 // for 14isk Haswell
 
 #ifndef NO_DEFINITIONBLOCK
-DefinitionBlock("", "SSDT", 2, "14isk", "_GPRW", 0)
+DefinitionBlock("", "SSDT", 2, "14ise", "_GPRW", 0)
 {
 #endif
     External(XPRW, MethodObj)

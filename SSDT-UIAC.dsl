@@ -2,7 +2,7 @@
 // USBInjectAll configuration/override
 // for 14isk Haswell
 
-DefinitionBlock ("", "SSDT", 2, "14isk", "UIAC-ALL", 0)
+DefinitionBlock ("", "SSDT", 2, "14ise", "UIAC-ALL", 0)
 {
     Device(UIAC)
     {

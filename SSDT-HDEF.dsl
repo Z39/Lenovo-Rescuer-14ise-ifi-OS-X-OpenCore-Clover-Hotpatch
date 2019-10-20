@@ -2,7 +2,7 @@
 // Automatic injection of HDEF properties
 // for 14isk Haswell
 
-DefinitionBlock("", "SSDT", 2, "14isk", "HDEF", 0)
+DefinitionBlock("", "SSDT", 2, "14ise", "HDEF", 0)
 {
     External(_SB.PCI0.HDEF, DeviceObj)
     
@@ -12,7 +12,7 @@ DefinitionBlock("", "SSDT", 2, "14isk", "HDEF", 0)
         Return(Package()
         {
             
-            "layout-id", Buffer() { 3, 0, 0, 0 },
+            "layout-id", Buffer() { 14, 0, 0, 0 },
             "hda-gfx", Buffer() { "onboard-1" },
             "PinConfigurations", Buffer() { },
         })

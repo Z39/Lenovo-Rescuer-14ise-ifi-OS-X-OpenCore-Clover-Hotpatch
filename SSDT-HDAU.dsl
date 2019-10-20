@@ -2,7 +2,7 @@
 // HDAU (HDMI Audio) injection
 // Note: Only for Haswell and Broadwell
 
-DefinitionBlock("", "SSDT", 2, "14isk", "HDAU", 0)
+DefinitionBlock("", "SSDT", 2, "14ise", "HDAU", 0)
 {
     External(_SB.PCI0.HDAU, DeviceObj)
     
@@ -12,7 +12,7 @@ DefinitionBlock("", "SSDT", 2, "14isk", "HDAU", 0)
         Return(Package()
         {
             
-            "layout-id", Buffer() { 3, 0, 0, 0 },
+            "layout-id", Buffer() { 14, 0, 0, 0 },
             "hda-gfx", Buffer() { "onboard-1" },
 
         })

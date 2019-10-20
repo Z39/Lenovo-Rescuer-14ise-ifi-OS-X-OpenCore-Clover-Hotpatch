@@ -1,6 +1,6 @@
 // Disable Nvidia graphics
 // for 14isk Haswell
-DefinitionBlock ("", "SSDT", 2, "14isk", "NDGP", 0x00000000)
+DefinitionBlock ("", "SSDT", 2, "14ise", "NDGP", 0x00000000)
 {
     External (_SB_.PCI0.PEG0.PEGP._OFF, MethodObj)    // 0 Arguments (from opcode)
     External (_SB_.PCI0.PEG0.PEGP._ON_, MethodObj)    // 0 Arguments (from opcode)

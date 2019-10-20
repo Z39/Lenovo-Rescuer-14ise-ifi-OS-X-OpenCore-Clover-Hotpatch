@@ -2,7 +2,7 @@
 // for 14isk Haswell
 
 
-DefinitionBlock ("", "SSDT", 1, "14ISK", "CX235", 0)
+DefinitionBlock ("", "SSDT", 1, "14ISE", "CX235", 0)
 {
     External(_SB.PCI0.HDEF, DeviceObj)
     

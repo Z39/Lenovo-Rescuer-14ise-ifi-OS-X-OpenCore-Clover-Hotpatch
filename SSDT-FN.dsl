@@ -1,11 +1,11 @@
 // Replace Q38 & Q39 key functions for brightness
 // for 14isk Haswell
-DefinitionBlock ("", "SSDT", 2, "14isk", "FN", 0x00000000)
+DefinitionBlock ("", "SSDT", 2, "14ise", "FN", 0x00000000)
 {
-    External (_SB_.PCI0.LPCB.H_EC, DeviceObj)    // (from opcode)
+    External (_SB_.PCI0.LPCB.EC, DeviceObj)    // (from opcode)
     External (_SB_.PCI0.LPCB.PS2K, DeviceObj)    // (from opcode)
 
-    Scope (_SB.PCI0.LPCB.H_EC)
+    Scope (_SB.PCI0.LPCB.EC)
     {
         // _Q38 called on brightness up key
         Method (_Q38, 0, NotSerialized)  // _Qxx: EC Query
