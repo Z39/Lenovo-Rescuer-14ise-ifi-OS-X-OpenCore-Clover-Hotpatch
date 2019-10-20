@@ -5,11 +5,11 @@
 
 * | Computer:Lenovo Rescuer 14-isk / Rescuer 15-isk Laptop
 * | CPU :Intel Core i5- 4210HQ /Intel Core i7-4720HQ  (Haswell  )
-* | Graphics :HD4600 (using Intel GPU only) 独显已屏蔽
+* | Graphics :HD4600 (using Intel GPU only) +GeForce GTX 960M(独显已屏蔽)
 * | Audio:ACL235 @ Intel Lynx Point High Definition Audio
 * | Ethernet: RTL8168/8111/8112 Gigabit Ethernet Controller
-* | WiFi: (原装无解，更换) 
-* | Bluetooth: (原装无解，更换)          
+* | WiFi: dw1820a(原装无解，更换) 
+* | Bluetooth: dw1820a(原装无解，更换)          
 * | BIOS Version:最新版
 
 ## 支持列表
