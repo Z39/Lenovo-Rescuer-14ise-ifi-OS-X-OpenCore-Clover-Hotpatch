@@ -1,5 +1,5 @@
-# Lenovo-Rescuer-14isk-15isk-Haswell-OS-X-Clover-Hotpatch
-让你的拯救者 14-isk&15-isk Haswell笔记本吃上黑苹果（注意此为4代U版，与6代U版不一样）
+# Lenovo-Rescuer-14ise-ifi-OS-X-Clover-Hotpatch
+让你的拯救者 14-ise/ifi笔记本吃上黑苹果（注意此为4代U版，与isk6代U版不一样）
 
 [English](README-EN.md) | [中文](README.md)
 
