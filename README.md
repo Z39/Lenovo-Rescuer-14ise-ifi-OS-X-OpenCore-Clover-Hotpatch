@@ -11,7 +11,8 @@
 * | WiFi: dw1820a(原装无解，更换) 
 * | Bluetooth: dw1820a(原装无解，更换)          
 * | BIOS Version:最新版
-
+ 
+  ![截图](Screen.jpg)  
 ## 支持列表
 
 * 支持macOS Catalina 10.15& macOS Mojave 10.14
